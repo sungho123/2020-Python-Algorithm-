@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 n = 1 #Count 변수
 n1 = 472 #첫번째 자연수
 n2 = 385 #두번째 자연수
