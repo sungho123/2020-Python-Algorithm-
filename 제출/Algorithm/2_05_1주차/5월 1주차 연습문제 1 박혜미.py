@@ -3,7 +3,6 @@ cnt = 0
 
 if len(ip) < 2 :
     ip = '0'+ ip
-print(ip)
 
 number = ip 
 while True :
